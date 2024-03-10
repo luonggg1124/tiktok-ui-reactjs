@@ -1,0 +1,4 @@
+/.vscode trong gitignore sẽ không commit lên git
+
+Cấu hình router
+ npm i react-router-dom
